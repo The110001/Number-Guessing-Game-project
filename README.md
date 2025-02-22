@@ -1,2 +1,2 @@
 # practice-1
-the script takes input from the user and then uses it to create a half pyramid of numbers
+create a program that uses graphical user interface and gives the user the option to choose however many number they want and whatever mathematical operation they want. Then the program will take these inputs and conduct the mathematical operation on the numbers provided by the user. the user can choose to add numbers, subtract them, divide them, or multiply them, or create a pyramid out of them and other operations.
