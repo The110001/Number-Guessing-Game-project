@@ -68,3 +68,14 @@ def random_num (range, chances, number_to_guess):
 range1, chances1, number_to_guess1 = range(1,100 + 1), 7, random.randrange(1,100 + 1)
 range2, chances2, number_to_guess2 = range(1,500 + 1), 8, random.randrange(1,500 + 1)
 range3, chances3, number_to_guess3 = range(1,1000 + 1), 9, random.randrange(1,1000 + 1)
+
+# welcome message
+print("Hello dear user. We are so glad that you are here :)\n"
+      "This is a Number Guessing game and you are prompted to choose\n"
+      "from the below options one range. Then our program will choose\n"
+      "a random number that you must guess correctly. You have a specific\n"
+      "number of guesses, so be wise and do not waste them ;)"
+      "That is all :)\n"
+      "\n"
+      "WARNING: Do not type any unexpected characters such as alphabets, decimal numbers, and special characters such as !,#,$, etc.\n"
+      "These exceptions will raise an error and reduce your number of chances! So be careful.")
