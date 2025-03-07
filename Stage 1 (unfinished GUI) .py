@@ -1,3 +1,4 @@
+## the GUI needs more work and then the number guessing code must be applied to the GUI ##
 # import modules
 import random
 import tkinter as tk
